@@ -19,5 +19,6 @@ class Main {
         if (k == 0) {
             System.out.println("Element is not found in array");
         }
+        sc.close();
     }
 }
